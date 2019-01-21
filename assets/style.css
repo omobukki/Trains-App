@@ -1,1 +1,36 @@
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.hero-image  {
+    text-align: center;
+    padding: 100px;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5),
+     ), url("C:/Users/omodo/assets\hero-image.jpg");
+        background-size: cover;
+        background-position: center;
+        color: white;
+
+}
+    .hero-image h1 {
+        font-size 40px
+        font-weight: 600;
+}
+
+ .table-header {
+     margin:0 auto;
+     padding: 50px;
+
+ }
+ .font-box {
+     padding-left: 200px;
+ }
+
+    
 
